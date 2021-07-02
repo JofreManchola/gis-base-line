@@ -1,3 +1,9 @@
+> # To my friends
+> 
+> ### This is a baseline proposal for GIS web projects. Enjoy it.
+
+---------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
