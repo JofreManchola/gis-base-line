@@ -1,6 +1,6 @@
 > # To my friends
 > 
-> ### This is a baseline proposal for GIS web projects using [ArcGIS API for JavaScript v4](https://developers.arcgis.com/javascript/) and [React](https://reactjs.org/). **Enjoy it :)**.
+> This is a baseline proposal for GIS web projects using [ArcGIS API for JavaScript v4](https://developers.arcgis.com/javascript/) and [React](https://reactjs.org/). **Enjoy it :)**.
 
 ---------
 
